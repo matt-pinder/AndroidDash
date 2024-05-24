@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560428554313",
+    "project_id": "r8dash-ca64a",
+    "storage_bucket": "r8dash-ca64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560428554313:android:1e278983aa9f549ca08798",
+        "android_client_info": {
+          "package_name": "com.pinderwagen.r8dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd1Dlmph-Ucu1V-iI3es9Fc4M1whwPuv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
